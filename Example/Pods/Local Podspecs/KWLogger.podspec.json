@@ -1,0 +1,28 @@
+{
+  "name": "KWLogger",
+  "version": "0.1.0",
+  "summary": "iOS日志组件",
+  "description": "iOS日志组件，基于第三方的二次封装",
+  "homepage": "https://github.com/GithubXkw1573/KWLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GithubXkw1573": "1074030698@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GithubXkw1573/KWLogger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KWLogger/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "dependencies": {
+    "CocoaLumberjack": [
+
+    ]
+  }
+}
