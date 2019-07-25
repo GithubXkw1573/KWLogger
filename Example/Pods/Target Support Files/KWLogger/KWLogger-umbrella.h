@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "FormatLogger.h"
+#import "KWLogger.h"
 
 FOUNDATION_EXPORT double KWLoggerVersionNumber;
 FOUNDATION_EXPORT const unsigned char KWLoggerVersionString[];
