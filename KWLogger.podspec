@@ -36,7 +36,7 @@ iOS日志组件，基于第三方的二次封装
   #   'KWLogger' => ['KWLogger/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'CocoaLumberjack'
 end
